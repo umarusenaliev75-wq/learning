@@ -1,9 +1,4 @@
-# Это твоя первая программа на Python!
-name = "Umar"
-print("Привет, " + name + "! Добро пожаловать в Backend-разработку.")
-
-# Давай проверим, как Python считает
-a = 10
-b = 5
-result = a + b
-print("Результат сложения 10 и 5 равен:", result)
+my_love_team = ["Ronaldo","Messi","Neymar","Vini"]
+my_love_team [1] = ["Mbappe"]
+my_love_team.append("Zidan")
+print (my_love_team)
